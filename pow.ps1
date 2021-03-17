@@ -1,1 +1,1 @@
-get-services
+get-services -name 'spooler'| stop-service
